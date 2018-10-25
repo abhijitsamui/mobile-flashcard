@@ -78,9 +78,9 @@ The individual deck view includes (at a minimum):
 ## Create New Quiz Question
 
 - The New Question view includes a form with fields for a question and answer, and a submit button.
-
 - Submitting the form correctly adds the question to the deck.
-  ![img](assets/screenshots/add_card.png)
+
+![img](assets/screenshots/add_card.png)
 
 ### Notification & Alert
 
