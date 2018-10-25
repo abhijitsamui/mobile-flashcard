@@ -9,6 +9,11 @@ The project specification is defined by the [Udacity Rubric](https://review.udac
 ## To Install
 
 1. Clone this repo
+
+```
+git clone https://github.com/abhijitsamui/mobile-flashcard.git
+```
+
 2. Run yarn commands:
 
 ```
